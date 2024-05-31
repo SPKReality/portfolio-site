@@ -89,7 +89,6 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     onClick={() => router.push("/")}
                     className="font-medium cursor-pointer mob:p-2 laptop:p-0"
                 >
-                    {data.name}.
                 </h1>
                 {!isBlog ? (
                     <div className="flex">
