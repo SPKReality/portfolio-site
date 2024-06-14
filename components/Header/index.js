@@ -47,7 +47,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                                     <Button
                                         onClick={() =>
                                             window.open(
-                                                "mailto:hello@chetanverma.com"
+                                                "mailto:877899@student.derby-college.ac.uk"
                                             )
                                         }
                                     >
@@ -72,7 +72,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                                     <Button
                                         onClick={() =>
                                             window.open(
-                                                "mailto:hello@chetanverma.com"
+                                                "mailto:877899@student.derby-college.ac.uk"
                                             )
                                         }
                                     >
@@ -101,7 +101,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                         )}
                         <Button
                             onClick={() =>
-                                window.open("mailto:hello@chetanverma.com")
+                                window.open("mailto:877899@student.derby-college.ac.uk")
                             }
                         >
                             Contact
@@ -117,7 +117,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                         )}
                         <Button
                             onClick={() =>
-                                window.open("mailto:hello@chetanverma.com")
+                                window.open("mailto:877899@student.derby-college.ac.uk")
                             }
                         >
                             Contact
